@@ -1,0 +1,45 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Calculating factorials/out/
+/Problems/Calculating factorials/out/production/classes/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Cinema/out/
+/Problems/Cinema/out/production/classes/
+/Problems/Count how many times a number occurs/out/
+/Problems/Count how many times a number occurs/out/production/classes/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Fix the program/out/
+/Problems/Fix the program/out/production/classes/
+/Problems/Floor-space of the room/out/
+/Problems/Floor-space of the room/out/production/classes/
+/Problems/Harry Potter/out/
+/Problems/Harry Potter/out/production/classes/
+/Problems/Right Rotation/out/
+/Problems/Right Rotation/out/production/classes/
+/Problems/Spiral/out/
+/Problems/Spiral/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/Sum of numbers in the range/out/
+/Problems/Sum of numbers in the range/out/production/classes/
+/Problems/Swap the columns/out/
+/Problems/Swap the columns/out/production/classes/
+/Problems/The (un)-ordered sequence/out/
+/Problems/The (un)-ordered sequence/out/production/classes/
+/Problems/The largest element of a sequence/out/
+/Problems/The largest element of a sequence/out/production/classes/
+/Problems/The length of the sequence/out/
+/Problems/The length of the sequence/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Problems/What's wrong/out/
+/Problems/What's wrong/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/

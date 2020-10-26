@@ -1,0 +1,28 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    public class Main {
+
+        public static int extractInt(double d) {
+            // write your code here
+        }
+
+        /* Do not change code below */
+        public static void main(String[] args) {
+            final Scanner scanner = new Scanner(System.in);
+            final double d = scanner.nextDouble();
+            System.out.println(extractInt(d));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2724
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2724">JetBrains
+    Academy</a></html>
+  time: Fri, 23 Oct 2020 16:57:54 UTC
+record: -1
